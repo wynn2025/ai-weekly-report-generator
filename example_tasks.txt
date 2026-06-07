@@ -1,0 +1,11 @@
+# Example task list for AI Weekly Report Generator
+# Lines starting with # are comments
+# Format: task title | optional description
+
+开发用户认证模块|完成JWT认证系统
+修复搜索结果排序异常
+优化首页加载性能
+编写API接口文档
+参加技术方案评审会议
+学习RAG技术架构
+部署测试环境更新

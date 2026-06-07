@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+README.txt
+test.py
+xianyu.md
+*_xianyu.md
