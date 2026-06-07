@@ -1,0 +1,2 @@
+# AI Weekly Report Generator Pro - Zero Dependencies
+# Python 3.7+ only, no third-party packages needed
